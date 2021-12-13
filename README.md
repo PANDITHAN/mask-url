@@ -30,4 +30,5 @@ apt update && apt install git -y && git clone https://github.com/PANDITHAN/mask-
 </p>
 
 
-# 𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝙴 𝙾𝙽 𝙶𝙸𝚃𝙷𝚄𝙱 : https://github.com/PANDITHAN <br>
+# 𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝙴 𝙾𝙽 𝙶𝙸𝚃𝙷𝚄𝙱
+https://github.com/PANDITHAN <br>
