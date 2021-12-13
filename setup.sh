@@ -10,9 +10,9 @@ printf "\e[0m\e[1;93m   \___ \|  _ \ / _ \|  __| __| \e[0m\e[1;92m| |  | |  _  /
 printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \| |____ \e[0m\n"
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m        Created By M-STER TECH \e[0m\e[1;91m( \e[0m\e[1;92mTahmid Rayat \e[0m\e[1;91m)\e[0m\n"
+printf "\e[0m\e[1;93m        Created By M-STER TECH \e[0m\e[1;91m( \e[0m\e[1;92mPANDITHAN \e[0m\e[1;91m)\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m m-ster \e[0m\e[1;97m| \e[0m\e[1;93mtelegram :\e[0m\e[1;96m @m-ster-tech\e[0m\n"
+printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m PANDITHAN \e[0m\e[1;97m| \e[0m\e[1;93mtelegram :\e[0m\e[1;96m @m-ster-tech\e[0m\n"
 }
 banner
 printf "\e[0m\n"
