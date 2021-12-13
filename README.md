@@ -1,11 +1,11 @@
 # MASK-URL
-# [+] Created By [PANDITHAN](https://github.com/PANDITHAN) 
-# [+] Disclaimer :
+# * Created By [PANDITHAN](https://github.com/PANDITHAN) 
+# * Disclaimer :
 ***Short Url is a tool to short url.This tool uses [TinyURL](https://tinyurl.com/)'s Api. It is created for Educational Purpose only.***
 
 <img src="" alt="" border="0" />
 
-# [+] Installation
+# * Installation
 ```apt update```
 
 ```apt install git -y```
