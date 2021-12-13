@@ -13,12 +13,10 @@
 
 ```git clone https://github.com/PANDITHAN/mask-url```
 
-```cd shorturl```
-
 ```bash setup.sh```
 
 - Type `shorturl` or `mask-url` to run the Tool.
 - Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/PANDITHAN/mask-url && cd shorturl && bash setup.sh && shorturl
+apt update && apt install git -y && git clone https://github.com/PANDITHAN/mask-url && bash setup.sh && shorturl
 ```
